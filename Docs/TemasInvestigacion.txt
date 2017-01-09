@@ -1,0 +1,44 @@
+1.- Patrones Factory
+    
+
+2.- Principios SOLID
+    
+
+3.- Patrón Inyección de Dependencias
+
+
+4.- Expresiones Lambda y Strem en Java 8
+    
+
+5.- Pruebas unitarias
+    
+
+6.- Gestión de log
+    
+
+7.- Hilos
+
+
+8.- Sockets
+    
+
+9.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
+    
+    
+
+10.- Reportes con Jasper Report
+    
+
+11.- Generics
+    
+
+12.- Manejo de documentos XML
+    (XML, DTD, Esquemas, XLS, XLST, Librerias para Java, Etc.)
+
+
+13.- API JSON de Java
+
+
+
+
+
