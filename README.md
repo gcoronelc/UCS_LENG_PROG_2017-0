@@ -1,4 +1,4 @@
-![TALLER DE PROGRAMACIÓN](https://raw.githubusercontent.com/gcoronelc/UCS_LENG_PROG_2017-1/master/LENG_PROG-2017-1.JPG)
+﻿![TALLER DE PROGRAMACIÓN](https://raw.githubusercontent.com/gcoronelc/UCS_LENG_PROG_2017-1/master/LENG_PROG-2017-1.JPG)
 
 # LENGUAJES DE PROGRAMACIÓN
 
@@ -49,6 +49,7 @@
 - Lección 08: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-08-colecciones.html
 - Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
 - Seminario CS: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
+- Java Fundamentos 01: http://www.slideshare.net/GustavoCoronel/java-fundamentos-01-introduccin
 
 
 
