@@ -23,7 +23,7 @@
     
 
 9.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
-    
+    Peñaranda y 
     
 
 10.- Reportes con Jasper Report
@@ -34,7 +34,8 @@
 
 12.- Manejo de documentos XML
     (XML, DTD, Esquemas, XLS, XLST, Librerias para Java, Etc.)
-
+     Wong y Guerrero
+	 
 
 13.- API JSON de Java
 

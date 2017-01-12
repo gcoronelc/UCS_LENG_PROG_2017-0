@@ -39,15 +39,23 @@
 - Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Seminario CS: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
-- Java Fundamentos 01: http://www.slideshare.net/GustavoCoronel/java-fundamentos-01-introduccin
-- Pensando en servicios - 1: http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
-- Pensando en servicios - 2: http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
+- BMP: http://www.club-bpm.com/
+
+
+
+## Videos
+
 - Desacoplar la lógica de negocio: https://youtu.be/OU8VhFLtCVM
 - Arquitectura de software 1: https://youtu.be/2Bcbls0bBzs
 - Arquitectura de software 2: https://youtu.be/97_3-D4NrI0
 
 
+
 ## Curso Java Orientado a Objectos
+
+- Java Fundamentos 01: http://www.slideshare.net/GustavoCoronel/java-fundamentos-01-introduccin
+- Pensando en servicios - 1: http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
+- Pensando en servicios - 2: http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
 - Separata: http://gcoronelc.blogspot.pe/2016/06/separata-java-orientado-objetos.html
 - Lección 01: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
 - Lección 02: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html

@@ -1,0 +1,7 @@
+Desarrollar una aplicación para encontrar
+el promedio de un estudiante y su conduición.
+
+Son 4 notas, ya condición de aprobado es
+si el promedio es mayor o igual a 14, caso
+contrario esta desaprobado.
+
