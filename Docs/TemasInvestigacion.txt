@@ -5,25 +5,26 @@
     
 
 3.- Patrón Inyección de Dependencias
+    Alomía y Benites
 
 
 4.- Expresiones Lambda y Strem en Java 8
     
 
 5.- Pruebas unitarias
-    
+    Amado y Cuesta
 
 6.- Gestión de log
     
 
 7.- Hilos
-
+    Ramos y Suarez
 
 8.- Sockets
     
 
 9.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
-    Peñaranda y 
+    Peñaranda y Flores
     
 
 10.- Reportes con Jasper Report
