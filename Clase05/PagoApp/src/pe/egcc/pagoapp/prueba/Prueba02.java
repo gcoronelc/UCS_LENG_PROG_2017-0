@@ -9,7 +9,7 @@ public class Prueba02 {
     
     try {
       // Dato
-      PagoDto dto = new PagoDto(-6, 20, -80.0);
+      PagoDto dto = new PagoDto(6, 20, 80.0);
       // Proceso
       PagoService service = new PagoService();
       service.procesar(dto);
