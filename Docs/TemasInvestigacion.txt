@@ -1,45 +1,21 @@
-1.- Patrones Factory
-    
-
-2.- Principios SOLID
-    
-
-3.- Patrón Inyección de Dependencias
+1.- Patrón Inyección de Dependencias
     Alomía y Benites
 
-
-4.- Expresiones Lambda y Strem en Java 8
-    
-
-5.- Pruebas unitarias
+2.- Pruebas unitarias
     Amado y Cuesta
 
-6.- Gestión de log
-    
-
-7.- Hilos
+3.- Hilos
     Ramos y Suarez
 
-8.- Sockets
-    
-
-9.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
+4.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
     Peñaranda y Flores
-    
-
-10.- Reportes con Jasper Report
-    
-
-11.- Generics
-    
-
-12.- Manejo de documentos XML
+  
+5.- Manejo de documentos XML
     (XML, DTD, Esquemas, XLS, XLST, Librerias para Java, Etc.)
-     Wong y Guerrero
+    Wong y Guerrero
 	 
-
-13.- API JSON de Java
-     Becerra y Zavala
+6.- API JSON de Java
+    Becerra y Zavala
 	 
 
 
