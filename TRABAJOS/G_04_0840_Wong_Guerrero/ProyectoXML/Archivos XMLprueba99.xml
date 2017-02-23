@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<departamento>
+    <Empleado>
+        <idEmpleado>585554</idEmpleado>
+        <nombre>CARLOS</nombre>
+        <paterno>RODRIUGE</paterno>
+        <materno>LOZADA</materno>
+    </Empleado>
+</departamento>

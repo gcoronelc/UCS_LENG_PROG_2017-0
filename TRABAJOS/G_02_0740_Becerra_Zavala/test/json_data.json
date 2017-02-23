@@ -1,0 +1,46 @@
+{
+   "p1": { 
+            "name": "Carlos Zavala",
+		    "age":   26,
+		    "company": "BCP"
+         },
+ 
+ 
+   "p2": {
+            "name": "Walter Becerra",
+		    "age":   28,
+		    "company": "Scotiabank"   
+         },	
+
+   "p3": {
+            "name": "Fernando Cuesta",
+		    "age":   30,
+		    "company": "Interbank"   
+         },	
+
+   "p4": {
+            "name": "Walter Canales",
+		    "age":   27,
+		    "company": "Interbank"   
+         },	
+
+   "p5": {
+            "name": "Renzo Lopez",
+		    "age":   28,
+		    "company": "BCP"   
+         },	
+
+   "p6": {
+            "name": "Cesar Castillo",
+		    "age":   28,
+		    "company": "BCP"   
+         },
+	"p7": {
+            "name": "Gustavo Coronel",
+		    "age":   28,
+		    "company": "UCsur"   
+         }
+		 
+}		 
+
+		 

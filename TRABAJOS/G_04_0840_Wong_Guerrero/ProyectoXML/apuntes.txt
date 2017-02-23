@@ -1,0 +1,4 @@
+http://bit.ly/2bsswKt
+
+Con el siguiente link se puede generar el xsd de un archivo xml
+http://xmlgrid.net/xml2xsd.html
